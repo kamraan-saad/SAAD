@@ -1,0 +1,30 @@
+h1{
+    color:#639A67;
+}
+body{
+    color:#205D67;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#BAD7DF;
+    font-size: 20px;
+}
+a{
+    color:#2B2B28;
+    font-size: 15px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius:300px;
+}
+hr{
+    color: #424874;
+    border-top:dotted;
+    border-bottom: dotted;
+    width: 20px;
+}
+footer{
+    color: #522546;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
